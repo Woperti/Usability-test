@@ -40,8 +40,8 @@ Para hacer el boton con el enlace en figma:
 
 Checa las imagnes si aun tienes duda.
 
-[figma](./linkinterview1.png)
+[figma](./link-interview1.png)
 
-[figma](./linkinterview1.png)
+[figma](./link-interview2.png)
 
 Analiza los resultados obtenidos.
